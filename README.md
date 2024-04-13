@@ -48,8 +48,7 @@
 ## Melee Section:
 - Select Melee
 - Auto Melee Fully
-## Mics Farm Section:
-- Select Boss
+## Mics Farm Sec
 - Auto Farm Boss
 - Auto Farm All Boss
 ## Mastery Section:
